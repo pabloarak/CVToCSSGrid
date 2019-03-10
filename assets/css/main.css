@@ -74,7 +74,3 @@ body {
 .hobbies {
   grid-area: hobbies;
 }
-
-/* .item:nth-of-type(3){
-  background: blue;
-} */
